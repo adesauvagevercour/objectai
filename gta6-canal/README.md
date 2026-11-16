@@ -1,6 +1,6 @@
 # Canal GTA 6 — 10 vídeos listos para el jueves 19 de noviembre
 
-Cada vídeo tiene **guion, voz, imágenes y animaciones** por escena. **Sin montaje**, como pediste: falta unir las piezas en tu editor (CapCut, Premiere, DaVinci…).
+Cada vídeo tiene **guion, voz, imágenes, animaciones** por escena y el **vídeo final montado** (`NN_nombre_FINAL.mp4`, 1080p). Canal: **Leonida Diario** (logo y banner en `canal/`).
 
 ## Estructura de cada vídeo
 
