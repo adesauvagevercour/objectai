@@ -1,0 +1,93 @@
+# ¿GTA 6 tiene ONLINE desde el día 1? Lo que se sabe del multijugador
+
+**Miniatura:** ¿HAY / ONLINE?
+
+## Descripción para YouTube
+
+Qué se sabe del modo online de GTA 6 en el lanzamiento, qué pasa con GTA Online actual y si necesitas suscripción.
+#GTA6 #GTA6Online #GTAOnline
+
+Capítulos:
+0:00 ¿Y El Online?
+0:20 El Lanzamiento
+0:47 No Es Raro
+1:09 Rumores
+1:30 ¿Suscripción?
+1:51 ¿Y Gta Online Actual?
+2:11 Mientras Tanto
+2:30 Cómo Prepararte
+2:51 ¿Juego Cruzado?
+3:13 Ojo Con Las Estafas
+3:38 Te Leo
+
+## Etiquetas
+
+gta 6 online, gta 6 multijugador, gta online 6, gta 6 ps plus, gta 6 online fecha, gta 6 jugar con amigos
+
+## Guion
+
+### Escena 01 — ¿Y EL ONLINE?
+
+*En pantalla:* **?** · Lo más preguntado tras la fecha · Lo que hay vs lo que se rumorea
+
+Después de la fecha y el precio, la pregunta que más se repite es esta: ¿GTA seis tiene modo online desde el primer día? GTA Online ha sido una de las partes más exitosas de la historia de Rockstar, así que es normal que la gente quiera saber si podrá jugar con amigos desde el diecinueve. Vamos a separar lo que se sabe de lo que son rumores.
+
+### Escena 02 — EL LANZAMIENTO
+
+*En pantalla:* **UN JUGADOR** · Rockstar habla de experiencia para un jugador · El online llegaría después
+
+Lo que se ha publicado apunta en una dirección: Rockstar ha descrito GTA seis en su lanzamiento como una experiencia para un jugador, centrada en la historia de Jason y Lucia. Medios como GamesRadar interpretaron que, por eso, el componente online probablemente no estará disponible el día uno, sino que llegará más adelante. Hasta que Rockstar lo diga de forma explícita, tómalo como lo más probable, no como algo cerrado.
+
+### Escena 03 — NO ES RARO
+
+*En pantalla:* **GTA V → 2 SEMANAS** · GTA V salió en sept. 2013 · GTA Online: octubre de 2013
+
+Y no sería nada raro. Con GTA cinco pasó algo parecido. El juego salió en septiembre de dos mil trece, y GTA Online se activó un par de semanas después, en octubre. Rockstar prefirió que la gente jugara primero la historia y lanzar el multijugador por separado, con sus propios servidores preparados. Es muy posible que repitan la estrategia.
+
+### Escena 04 — RUMORES
+
+*En pantalla:* **¿32 JUGADORES?** · Rumores de partidas de 32 jugadores · Sin fecha confirmada
+
+Sobre cómo será ese online, circulan muchos rumores. Por ejemplo, se ha hablado de partidas de hasta treinta y dos jugadores, a partir de supuestos documentos. Pero ojo: un rumor no es una fecha de lanzamiento ni una característica confirmada. Si ves un vídeo que te asegura cómo será el online al detalle, desconfía hasta que lo diga Rockstar.
+
+### Escena 05 — ¿SUSCRIPCIÓN?
+
+*En pantalla:* **PS PLUS / GAME PASS** · Normalmente el online de consola la requiere · La historia no
+
+¿Necesitarás suscripción? Para la historia, no. Para el online, lo habitual en consola es que necesites PlayStation Plus o el plan correspondiente de Xbox, como pasa hoy con GTA Online. Así que si solo vas a jugar la campaña al principio, no hace falta que te suscribas el día uno. Espera a que se anuncie el multijugador y entonces decide.
+
+### Escena 06 — ¿Y GTA ONLINE ACTUAL?
+
+*En pantalla:* **GTA V** · Sigue funcionando · Tu progreso no desaparece por el lanzamiento
+
+Otra duda frecuente: ¿qué pasa con mi personaje de GTA Online actual? Por ahora, GTA Online de GTA cinco sigue funcionando. La salida de GTA seis no lo apaga de golpe. Lo que no se sabe es si habrá algún tipo de traspaso de dinero o progreso al nuevo online. No te creas a nadie que te lo asegure: no hay nada oficial.
+
+### Escena 07 — MIENTRAS TANTO
+
+*En pantalla:* **MODO HISTORIA** · Disfruta la campaña sin prisa · Evita spoilers en directos
+
+Mi recomendación: aprovecha estas primeras semanas para disfrutar la historia con calma. Cuando llegue el online, todo el mundo empezará de cero a la vez, así que no vas a perder ninguna ventaja por terminar la campaña primero. Y cuidado con los directos, que con la historia recién salida, los spoilers vuelan.
+
+### Escena 08 — CÓMO PREPARARTE
+
+*En pantalla:* **LISTO** · Junta a tu grupo de amigos · Revisa tu suscripción · Termina la historia sin prisa
+
+Si el online es lo que más te interesa, puedes ir preparándote. Junta a tu grupo de amigos y poneos de acuerdo en qué consola vais a jugar, porque de momento no hay nada confirmado sobre juego cruzado entre plataformas. Revisa cuándo te caduca la suscripción, para no pagar meses que no vas a usar. Y mientras tanto, disfruta de la historia sin presión.
+
+### Escena 09 — ¿JUEGO CRUZADO?
+
+*En pantalla:* **PS ⇄ XBOX** · Sin confirmación oficial · No compres pensando en ello
+
+Sobre el juego cruzado, es decir, que jugadores de PlayStation y de Xbox puedan jugar juntos, no hay nada oficial. GTA Online actual no lo tiene entre consolas de distintas marcas. Así que si tu grupo está dividido entre PlayStation y Xbox, no des por hecho que podréis jugar juntos. Mejor esperar al anuncio oficial antes de comprar pensando en eso.
+
+### Escena 10 — OJO CON LAS ESTAFAS
+
+*En pantalla:* **⚠ ESTAFAS** · 'Acceso anticipado al online': falso · Nunca des tus contraseñas · Solo fuentes oficiales
+
+Y un aviso importante: con tanto interés, aparecen estafas. Vas a ver enlaces que prometen acceso anticipado al online, dinero gratis o betas secretas. Todo eso es falso. Nunca metas tu usuario y contraseña de PlayStation o Xbox en webs que no sean las oficiales, y no descargues nada raro. Las novedades del online llegarán por los canales oficiales de Rockstar, no por un enlace en un comentario.
+
+### Escena 11 — TE LEO
+
+*En pantalla:* **¿ONLINE O HISTORIA?** · ¿Qué te importa más? · Suscríbete
+
+¿Y tú? ¿Compras GTA seis por la historia o estás esperando sobre todo el online? Déjamelo en los comentarios. En cuanto Rockstar anuncie algo oficial sobre el multijugador, lo tendrás aquí en el canal, así que suscríbete y activa la campana. Nos vemos.
