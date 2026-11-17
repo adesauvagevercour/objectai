@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:03,775
+Es una de las preguntas más buscadas en Google sobre GTA seis:
+
+2
+00:00:03,825 --> 00:00:05,379
+¿viene doblado al español?
+
+3
+00:00:05,429 --> 00:00:10,499
+Y la respuesta corta seguramente no te va a gustar, pero tiene matices importantes.
+
+4
+00:00:10,549 --> 00:00:14,448
+En este vídeo te cuento qué idiomas trae el juego, qué significa
+
+5
+00:00:14,498 --> 00:00:18,026
+eso para ti si juegas en España o en Latinoamérica, y cómo
+
+6
+00:00:18,076 --> 00:00:22,160
+configurarlo para que leer subtítulos no te arruine la experiencia.
+
+7
+00:00:22,910 --> 00:00:23,803
+Vamos al grano.
+
+8
+00:00:23,853 --> 00:00:27,642
+Según la ficha del juego en la tienda de Xbox, que recogieron
+
+9
+00:00:27,692 --> 00:00:32,173
+medios como Vandal, el audio de GTA seis está disponible solo en inglés.
+
+10
+00:00:32,223 --> 00:00:35,949
+Es decir, no hay doblaje al español, ni de España ni latino.
+
+11
+00:00:35,999 --> 00:00:40,039
+Y aunque a muchos les duela, es lo que Rockstar ha hecho siempre:
+
+12
+00:00:40,089 --> 00:00:42,556
+ningún GTA principal ha llegado doblado.
+
+13
+00:00:42,606 --> 00:00:46,710
+La compañía apuesta por la interpretación original de sus actores.
+
+14
+00:00:47,460 --> 00:00:49,745
+La buena noticia está en los textos.
+
+15
+00:00:49,795 --> 00:00:53,832
+Esa misma ficha indica que el juego trae textos y subtítulos en
+
+16
+00:00:53,882 --> 00:00:56,102
+español, y además en dos variantes:
+
+17
+00:00:56,152 --> 00:00:58,568
+español de España y español de México.
+
+18
+00:00:58,618 --> 00:01:03,563
+Eso significa que los menús, las misiones y los diálogos subtitulados estarán
+
+19
+00:01:03,613 --> 00:01:07,650
+adaptados, con expresiones que suenen naturales en cada región.
+
+20
+00:01:07,700 --> 00:01:10,958
+No es un detalle menor en un juego donde el humor y
+
+21
+00:01:11,008 --> 00:01:12,840
+la jerga son tan importantes.
+
+22
+00:01:13,579 --> 00:01:16,431
+En total, se habla de trece idiomas de texto.
+
+23
+00:01:16,481 --> 00:01:21,588
+Take-Two, la empresa matriz de Rockstar, mencionó esa cifra ante sus inversores.
+
+24
+00:01:21,638 --> 00:01:26,165
+Entre ellos estarían, además del inglés y las dos variantes de español,
+
+25
+00:01:26,215 --> 00:01:30,356
+el francés, el italiano, el alemán, el portugués, el japonés o el
+
+26
+00:01:30,406 --> 00:01:31,710
+coreano, entre otros.
+
+27
+00:01:31,760 --> 00:01:33,902
+Eso sí, una aclaración importante:
+
+28
+00:01:33,952 --> 00:01:38,801
+en PlayStation la lista no estaba visible cuando se publicó esa información,
+
+29
+00:01:38,851 --> 00:01:42,669
+así que la confirmación definitiva la tendrás al instalarlo.
+
+30
+00:01:43,420 --> 00:01:46,127
+¿Cuál es el problema real de no tener doblaje?
+
+31
+00:01:46,177 --> 00:01:48,764
+En GTA se habla muchísimo mientras conduces.
+
+32
+00:01:48,814 --> 00:01:54,099
+Los personajes discuten, cuentan chistes y dan instrucciones en mitad de una persecución.
+
+33
+00:01:54,149 --> 00:01:57,276
+Y leer subtítulos a doscientos por hora no es cómodo.
+
+34
+00:01:57,326 --> 00:02:01,113
+Además, mucho del humor está en la radio y en las conversaciones
+
+35
+00:02:01,163 --> 00:02:04,649
+de la gente por la calle, que normalmente no se subtitulan.
+
+36
+00:02:05,400 --> 00:02:09,940
+Así que mi recomendación es dedicar dos minutos a los ajustes nada más empezar.
+
+37
+00:02:09,990 --> 00:02:13,601
+Busca la opción de tamaño de subtítulos y súbela, sobre todo si
+
+38
+00:02:13,651 --> 00:02:15,519
+juegas en una tele desde el sofá.
+
+39
+00:02:15,569 --> 00:02:19,528
+Si el juego permite poner un fondo oscuro detrás del texto, actívalo,
+
+40
+00:02:19,578 --> 00:02:22,433
+porque con el sol de Vice City se lee mucho mejor.
+
+41
+00:02:22,483 --> 00:02:26,211
+Y recuerda que normalmente el idioma del juego sigue al idioma de
+
+42
+00:02:26,261 --> 00:02:29,930
+tu consola, así que revisa esa configuración si te aparece otro.
+
+43
+00:02:30,680 --> 00:02:34,092
+Y si te preguntas qué variante elegir, la de España o la
+
+44
+00:02:34,142 --> 00:02:36,071
+de México, es cuestión de gusto.
+
+45
+00:02:36,121 --> 00:02:40,709
+Si eres de Latinoamérica, probablemente la mexicana te suene más cercana en
+
+46
+00:02:40,759 --> 00:02:41,946
+expresiones y tacos.
+
+47
+00:02:41,996 --> 00:02:43,615
+Si eres de España, la otra.
+
+48
+00:02:43,665 --> 00:02:45,780
+Pero no pasa nada por probar ambas.
+
+49
+00:02:45,830 --> 00:02:51,160
+Hay gente que incluso prefiere jugar con subtítulos en inglés para practicar el idioma.
+
+50
+00:02:51,909 --> 00:02:57,207
+Mucha gente pregunta si el doblaje podría llegar más adelante con una actualización.
+
+51
+00:02:57,257 --> 00:02:59,435
+Siendo realistas, es poco probable.
+
+52
+00:02:59,485 --> 00:03:03,828
+Rockstar no ha doblado ninguno de sus GTA principales, ni tampoco Red
+
+53
+00:03:03,878 --> 00:03:07,838
+Dead Redemption dos, que tenía una cantidad enorme de diálogos.
+
+54
+00:03:07,888 --> 00:03:10,703
+No hay ningún anuncio que apunte a un cambio.
+
+55
+00:03:10,753 --> 00:03:14,013
+Así que lo sensato es hacerse a la idea de jugar con
+
+56
+00:03:14,063 --> 00:03:19,169
+subtítulos y disfrutar las voces originales, que suelen ser de un nivel altísimo.
+
+57
+00:03:19,919 --> 00:03:23,561
+Y oye, la versión original también tiene sus ventajas.
+
+58
+00:03:23,611 --> 00:03:28,141
+La interpretación de los actores está pensada para el juego, con la
+
+59
+00:03:28,191 --> 00:03:32,448
+captura de movimiento y las expresiones faciales sincronizadas.
+
+60
+00:03:32,498 --> 00:03:35,319
+El humor y la jerga se mantienen tal cual.
+
+61
+00:03:35,369 --> 00:03:40,172
+Y si estás aprendiendo inglés, pocas cosas son tan efectivas como pasar
+
+62
+00:03:40,222 --> 00:03:45,709
+decenas de horas escuchando conversaciones naturales con subtítulos en tu idioma.
+
+63
+00:03:46,460 --> 00:03:48,557
+Un apunte final sobre la radio.
+
+64
+00:03:48,607 --> 00:03:52,091
+En los GTA, las emisoras son casi un personaje más:
+
+65
+00:03:52,141 --> 00:03:56,178
+música, locutores, anuncios satíricos y tertulias absurdas.
+
+66
+00:03:56,228 --> 00:04:00,682
+Todo eso estará en inglés, y es posible que no todo se subtitule.
+
+67
+00:04:00,732 --> 00:04:02,968
+Si te pierdes algo, no pasa nada:
+
+68
+00:04:03,018 --> 00:04:07,956
+la música se disfruta igual, y siempre puedes buscar después los mejores
+
+69
+00:04:08,006 --> 00:04:10,520
+momentos comentados por la comunidad.
+
+70
+00:04:11,270 --> 00:04:12,361
+Ahora cuéntame tú:
+
+71
+00:04:12,411 --> 00:04:17,941
+¿te habría gustado un doblaje al español o prefieres la versión original con subtítulos?
+
+72
+00:04:17,991 --> 00:04:19,590
+Te leo en los comentarios.
+
+73
+00:04:19,640 --> 00:04:24,473
+Y si quieres llegar preparado al lanzamiento, suscríbete y activa la campana,
+
+74
+00:04:24,523 --> 00:04:28,658
+porque esta semana tienes en el canal todas las guías de GTA seis:
+
+75
+00:04:28,708 --> 00:04:32,210
+horarios, espacio, precio, mapa y consejos para empezar.
