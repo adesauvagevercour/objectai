@@ -1,0 +1,109 @@
+{
+  "slug": "14_errores_soluciones",
+  "titulo_youtube": "GTA 6: errores del lanzamiento y cómo SOLUCIONARLOS (PSN, cuelgues, misiones bloqueadas)",
+  "miniatura": [
+    "¿TE FALLA",
+    "GTA 6?"
+  ],
+  "descripcion": "Los problemas más reportados en el lanzamiento de GTA 6 y qué puedes hacer: errores de PSN, actualizaciones, cuelgues, misiones bloqueadas y partidas perdidas.\n#GTA6 #GTA6Bugs #GTA6Error",
+  "etiquetas": [
+    "gta 6 error",
+    "gta 6 bugs",
+    "gta 6 no funciona",
+    "gta 6 crash",
+    "gta 6 parche",
+    "gta 6 psn error"
+  ],
+  "escenas": [
+    {
+      "titulo": "¿TE FALLA?",
+      "dato": "ERRORES",
+      "puntos": [
+        "Lo más reportado",
+        "Y qué puedes hacer"
+      ],
+      "voz": "Si GTA seis te está dando problemas, no eres el único. Un lanzamiento de este tamaño casi nunca es perfecto, y en los primeros días se han reportado errores de conexión, cuelgues y algunas misiones bloqueadas. En este vídeo repaso los problemas más comunes que han reportado los jugadores y, sobre todo, qué puedes hacer tú para solucionarlos o evitarlos."
+    },
+    {
+      "titulo": "PSN",
+      "dato": "OCUPADO",
+      "puntos": [
+        "'Los servicios están ocupados'",
+        "Inicio de sesión y licencias"
+      ],
+      "voz": "El primer problema fue de PlayStation Network. Justo antes y después del desbloqueo, muchos jugadores vieron mensajes de servicios ocupados al iniciar sesión, problemas con la verificación de la licencia y con la lista de amigos. Esto no es un fallo del juego en sí, sino de la saturación de los servidores. La solución suele ser simple: esperar un rato y volver a intentarlo."
+    },
+    {
+      "titulo": "ACTUALIZACIÓN",
+      "dato": "SISTEMA",
+      "puntos": [
+        "Actualiza el software de la PS5",
+        "Y el juego"
+      ],
+      "voz": "Otro motivo por el que el juego no arrancaba: hacía falta una actualización del sistema de la PlayStation cinco. Si el juego no te abre, entra en los ajustes de la consola y comprueba que tienes el software del sistema al día. Y luego haz lo mismo con el juego. En Xbox, revisa también las actualizaciones pendientes."
+    },
+    {
+      "titulo": "XBOX",
+      "dato": "SIN CONEXIÓN",
+      "puntos": [
+        "Error de red temporal (reportado)",
+        "Prueba el modo sin conexión"
+      ],
+      "voz": "En Xbox, algunos jugadores reportaron un error de red temporal que impedía entrar. La solución que compartió la comunidad fue elegir la opción de jugar sin conexión cuando aparece el aviso. Te lo cuento con cautela, porque es un truco de la comunidad, no una solución oficial. Si te pasa, pruébalo; la historia no necesita estar conectado."
+    },
+    {
+      "titulo": "CUELGUES",
+      "dato": "CRASH",
+      "puntos": [
+        "Cierres en el prólogo (reportado)",
+        "Congelaciones"
+      ],
+      "voz": "Dentro del juego, lo más reportado son cuelgues y congelaciones, especialmente durante el prólogo. Si te pasa, cierra el juego por completo, no lo dejes en reposo, y vuelve a abrirlo. Reinicia la consola si se repite. Y comprueba que tienes espacio libre de sobra, porque quedarte justo de almacenamiento puede dar problemas."
+    },
+    {
+      "titulo": "MISIÓN BLOQUEADA",
+      "dato": "SOFTLOCK",
+      "puntos": [
+        "Una misión temprana de Lucia (reportado)",
+        "Carga el guardado anterior"
+      ],
+      "voz": "También se ha hablado de misiones que se quedan bloqueadas, por ejemplo una de las primeras misiones de Lucia, donde algunos jugadores no podían avanzar. Si te pasa algo así, no repitas la misión diez veces: carga una partida guardada anterior o reinicia desde el último punto de control. Y si sigue igual, espera al siguiente parche."
+    },
+    {
+      "titulo": "PARTIDAS PERDIDAS",
+      "dato": "GUARDA",
+      "puntos": [
+        "Usa varias ranuras",
+        "No confíes solo en el autoguardado"
+      ],
+      "voz": "Lo que más duele: algunos jugadores dicen haber perdido progreso tras un cuelgue, incluso con el autoguardado activado. Por eso insisto tanto en esto: guarda manualmente y en varias ranuras distintas. Y si tu consola sube las partidas a la nube, asegúrate de que está activado. Es la mejor protección mientras se arreglan los fallos."
+    },
+    {
+      "titulo": "LOS PARCHES",
+      "dato": "SIN NOTAS",
+      "puntos": [
+        "Dos actualizaciones antes del lanzamiento",
+        "Sin notas del parche publicadas"
+      ],
+      "voz": "¿Y los parches? Antes del lanzamiento salieron dos actualizaciones, el trece y el dieciséis de noviembre, sin notas que expliquen qué cambian. Rockstar no ha confirmado públicamente una fecha para un parche de errores. Circula un rumor sobre un arreglo el veinticinco de noviembre, pero no hay ninguna confirmación oficial, así que tómalo con pinzas."
+    },
+    {
+      "titulo": "¿DÓNDE INFORMARSE?",
+      "dato": "OFICIAL",
+      "puntos": [
+        "Rockstar Newswire",
+        "Web de soporte de Rockstar"
+      ],
+      "voz": "Mi consejo: para saber si hay un parche o una solución oficial, mira solo las fuentes oficiales: el Newswire de Rockstar y su web de soporte. Hay muchas páginas publicando listas de errores y fechas de parches que son pura especulación. Y si encuentras un fallo grave, repórtalo en el soporte de Rockstar; cuantos más reportes, antes lo arreglan."
+    },
+    {
+      "titulo": "TE LEO",
+      "dato": "¿Y TÚ?",
+      "puntos": [
+        "¿Te ha dado algún error? Cuéntame cuál y en qué consola.",
+        "Suscríbete a Leonida Diario"
+      ],
+      "voz": "Y ahora te toca a ti. ¿Te ha dado algún error? Cuéntame cuál y en qué consola. Te leo en los comentarios. Si este vídeo te ha servido, suscríbete a Leonida Diario y activa la campana, porque cada semana subo guías, noticias y consejos de GTA seis. Nos vemos en Leonida."
+    }
+  ]
+}
