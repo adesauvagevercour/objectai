@@ -1,6 +1,6 @@
 # Canal GTA 6 — 10 vídeos listos para el jueves 19 de noviembre
 
-Cada vídeo tiene **guion, voz, imágenes, animaciones** por escena y el **vídeo final montado** (`NN_nombre_FINAL.mp4`, 1080p). Canal: **Leonida Diario** (logo y banner en `canal/`).
+Cada vídeo tiene **guion, voz, imágenes y animaciones** por escena. **Sin montaje**, como pediste: falta unir las piezas en tu editor (CapCut, Premiere, DaVinci…).
 
 ## Estructura de cada vídeo
 
@@ -29,6 +29,16 @@ videos/NN_nombre/
 08. **¿GTA 6 sale en PC? Lo que se sabe y qué hacer mientras tanto** — 3:44 de voz, 11 escenas
 09. **GTA 6: las NOVEDADES jugables que más van a cambiar la saga** — 4:08 de voz, 12 escenas
 10. **10 CONSEJOS para tus primeras horas en GTA 6 (sin spoilers)** — 3:44 de voz, 12 escenas
+11. **GTA 6 tiene un 99 en Metacritic: ¿merece la pena? Lo bueno y lo malo** — 3:46 de voz, 10 escenas
+12. **GTA 6 rompe TODOS los récords: 3.790 millones en un día** — 3:30 de voz, 10 escenas
+13. **GTA 6: ¿PS5, PS5 Pro o Xbox? Dónde se juega MEJOR** — 3:40 de voz, 10 escenas
+14. **GTA 6: errores del lanzamiento y cómo SOLUCIONARLOS (PSN, cuelgues, misiones bloqueadas)** — 3:25 de voz, 10 escenas
+15. **¿Cuánto DURA GTA 6? Historia, extras y 100% (sin spoilers)** — 3:11 de voz, 10 escenas
+16. **Cómo GANAR DINERO rápido en GTA 6 al principio (guía)** — 3:01 de voz, 10 escenas
+17. **Cómo PERDER a la POLICÍA en GTA 6: el nuevo sistema de búsqueda explicado** — 2:54 de voz, 10 escenas
+18. **¿GTA 6 tiene TRUCOS? Así funcionan los cheats (y cómo desbloquearlos)** — 3:03 de voz, 10 escenas
+19. **GTA 6: los SECRETOS y easter eggs que ha encontrado la comunidad** — 3:02 de voz, 10 escenas
+20. **GTA 6 ONLINE: ¿cuándo sale? Todo lo que se sabe tras el lanzamiento** — 2:49 de voz, 10 escenas
 
 Recomendación: sube 1–4 el jueves (búsquedas del día de salida: hora, idioma, espacio, precio) y el resto escalonado durante el fin de semana.
 
